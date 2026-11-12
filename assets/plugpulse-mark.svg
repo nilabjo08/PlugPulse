@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PlugPulse minimalist logo">
+  <rect width="64" height="64" rx="19" fill="#0c302c"/>
+  <path d="M19.5 47.5V17.2h14.7c8.1 0 12.5 4.2 12.5 11s-4.4 11.1-12.5 11.1H25" fill="none" stroke="#f8fcf9" stroke-width="5.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17.8 28.5h7.1l4.1-6.7 5.6 13.4 3.8-6.7h8.1" fill="none" stroke="#62e0b0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
